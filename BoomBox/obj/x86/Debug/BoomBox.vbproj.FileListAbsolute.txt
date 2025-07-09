@@ -1,0 +1,65 @@
+C:\Users\Vikas\documents\visual studio 2010\Projects\BoomBox\BoomBox\bin\Debug\BoomBox.exe
+C:\Users\Vikas\documents\visual studio 2010\Projects\BoomBox\BoomBox\bin\Debug\BoomBox.pdb
+C:\Users\Vikas\documents\visual studio 2010\Projects\BoomBox\BoomBox\bin\Debug\BoomBox.xml
+C:\Users\Vikas\documents\visual studio 2010\Projects\BoomBox\BoomBox\obj\x86\Debug\BoomBox.Form1.resources
+C:\Users\Vikas\documents\visual studio 2010\Projects\BoomBox\BoomBox\obj\x86\Debug\BoomBox.Resources.resources
+C:\Users\Vikas\documents\visual studio 2010\Projects\BoomBox\BoomBox\obj\x86\Debug\BoomBox.vbproj.GenerateResource.Cache
+C:\Users\Vikas\documents\visual studio 2010\Projects\BoomBox\BoomBox\obj\x86\Debug\BoomBox.exe
+C:\Users\Vikas\documents\visual studio 2010\Projects\BoomBox\BoomBox\obj\x86\Debug\BoomBox.xml
+C:\Users\Vikas\documents\visual studio 2010\Projects\BoomBox\BoomBox\obj\x86\Debug\BoomBox.pdb
+C:\Users\Vikas\documents\visual studio 2010\Projects\BoomBox\BoomBox\obj\x86\Debug\BoomBox.vbprojResolveAssemblyReference.cache
+C:\Users\Vikas\documents\visual studio 2010\Projects\BoomBox\BoomBox\bin\Debug\Bass.Net.dll
+C:\Users\Vikas\documents\visual studio 2010\Projects\BoomBox\BoomBox\bin\Debug\System.dll
+C:\Users\Vikas\documents\visual studio 2010\Projects\BoomBox\BoomBox\bin\Debug\System.Drawing.dll
+C:\Users\Vikas\documents\visual studio 2010\Projects\BoomBox\BoomBox\bin\Debug\System.Windows.Forms.dll
+C:\Users\Vikas\documents\visual studio 2010\Projects\BoomBox\BoomBox\bin\Debug\System.Xml.dll
+C:\Users\Vikas\documents\visual studio 2010\Projects\BoomBox\BoomBox\bin\Debug\System.Xml.Linq.dll
+C:\Users\Vikas\documents\visual studio 2010\Projects\BoomBox\BoomBox\bin\Debug\gTrackBar.dll
+C:\Users\Vikas\documents\visual studio 2010\Projects\BoomBox\BoomBox\bin\Debug\BoomBox.exe.config
+C:\Users\Vikas\documents\visual studio 2010\Projects\BoomBox\BoomBox\obj\x86\Debug\BoomBox.exe.licenses
+C:\Users\Vikas\documents\visual studio 2010\Projects\BoomBox\BoomBox\obj\x86\Debug\BoomBox.slidemenu.resources
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\bin\Debug\BoomBox.exe.config
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\bin\Debug\BoomBox.exe
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\bin\Debug\BoomBox.pdb
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\bin\Debug\BoomBox.xml
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\bin\Debug\Bass.Net.dll
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\bin\Debug\gTrackBar.dll
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\bin\Debug\System.dll
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\bin\Debug\System.Drawing.dll
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\bin\Debug\System.Windows.Forms.dll
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\bin\Debug\System.Xml.dll
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\bin\Debug\System.Xml.Linq.dll
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\obj\x86\Debug\BoomBox.vbprojResolveAssemblyReference.cache
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\obj\x86\Debug\BoomBox.Form1.resources
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\obj\x86\Debug\BoomBox.Resources.resources
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\obj\x86\Debug\BoomBox.Open_Link.resources
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\obj\x86\Debug\BoomBox.vbproj.GenerateResource.Cache
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\obj\x86\Debug\BoomBox.exe.licenses
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\obj\x86\Debug\BoomBox.exe
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\obj\x86\Debug\BoomBox.xml
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\obj\x86\Debug\BoomBox.pdb
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Vikas Tiwari\Documents\Visual Studio 2010\Projects\BoomBox\BoomBox\obj\x86\Debug\BoomBox.Dialog1.resources
